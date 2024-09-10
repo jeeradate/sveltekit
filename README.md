@@ -1,5 +1,6 @@
 # This directory is for learning SvelteKit
-
+During learning you can share what you learn in vercel hosting for free as this sandbox too. 
+good luck.
 jeeradate@gmail.com
 
 ## Creating a project
