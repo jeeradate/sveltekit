@@ -13,7 +13,7 @@
                     <a href="/cssdemo">CSS</a>
                 </li>
                 <li>
-                    <a href="/contact">Contact</a>
+                    <a href="/counterdemo">Counter</a>
                 </li>
                 <li>
                     <a href="/products">Product</a>
