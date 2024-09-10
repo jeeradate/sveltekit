@@ -6,12 +6,24 @@
             <div class="box" id="box2">2</div>
             <div class="box" id="box3">3</div>
             <div class="box" id="box4">4</div>
+            <div class="box" id="box1">5</div>
+            <div class="box" id="box2">6</div>
+            <div class="box" id="box3">7</div>
+            <div class="box" id="box4">8</div>
         </div>
         
 	</body>
 
 
 <style>
+    .container {
+        display: flex;
+        border-style: dashed;
+        justify-content: space-evenly;
+        height: 50vh;
+        align-items: center;
+        flex-wrap: wrap;
+    }
     .box {
         width: 150px;
         height: 150px;
@@ -38,13 +50,6 @@
     #box4{
         background-color: rgb(24, 65, 216);
 
-    }
-    .container {
-        display: flex;
-        border-style: dashed;
-        justify-content:  space-around;
-        height: 50vh;
-        align-items: flex-end;
     }
 
 </style>
