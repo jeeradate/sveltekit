@@ -1,6 +1,6 @@
-# create-svelte
+# This directory is for learning SvelteKit
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+jeeradate@gmail.com
 
 ## Creating a project
 
