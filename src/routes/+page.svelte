@@ -11,7 +11,9 @@
             <div class="box" id="box3">7</div>
             <div class="box" id="box4">8</div>
         </div>
-        
+        <div style="margin: 20px;">
+            <h2>Let resize your browser window and see how css will handle the different screen size</h2>
+        </div>
 	</body>
 
 
