@@ -10,6 +10,9 @@
                     <a href="/">Home</a>
                 </li>
                 <li>
+                    <a href="/cssdemo">CSS</a>
+                </li>
+                <li>
                     <a href="/contact">Contact</a>
                 </li>
                 <li>
